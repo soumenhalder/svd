@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {1}Data Sample}{3}
+\contentsline {subsection}{\numberline {1.1}Bhabha Sample ($e^+ e^-\rightarrow e^+ e^-$)}{3}
+\contentsline {subsubsection}{\numberline {1.1.1}Location}{3}
+\contentsline {subsubsection}{\numberline {1.1.2}Furthur selection cut}{3}
+\contentsline {subsection}{\numberline {1.2} Dimuon Sample ($e^+ e^-\rightarrow \mu ^+ \mu ^-$)}{3}
+\contentsline {subsubsection}{\numberline {1.2.1}Location}{3}
+\contentsline {subsubsection}{\numberline {1.2.2}Furthur selection cut}{3}
+\contentsline {section}{\numberline {2}Hit Efficiency}{4}
+\contentsline {subsection}{\numberline {2.1}Definition}{4}
+\contentsline {subsection}{\numberline {2.2}Procedure}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Selection criteria}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}Correction due to background cluster}{4}
+\contentsline {subsubsection}{\numberline {2.2.3}Error Calculation}{4}
+\contentsline {section}{\numberline {3}Hit Resolution and Residual plots}{6}
+\contentsline {subsection}{\numberline {3.1}Layer3}{6}
+\contentsline {subsubsection}{\numberline {3.1.1}Sensor:1 U\_side}{6}
+\contentsline {subsubsection}{\numberline {3.1.2}Sensor:1 V\_side}{7}
+\contentsline {subsubsection}{\numberline {3.1.3}Sensor:2 U\_side}{8}
+\contentsline {subsubsection}{\numberline {3.1.4}Sensor:2 V\_side}{9}
+\contentsline {subsection}{\numberline {3.2}Layer4}{10}
+\contentsline {subsubsection}{\numberline {3.2.1}Sensor1 V\_side}{10}
+\contentsline {subsubsection}{\numberline {3.2.2}Sensor:2 U\_side}{11}
+\contentsline {subsubsection}{\numberline {3.2.3}Sensor:2 V\_side}{12}
+\contentsline {subsubsection}{\numberline {3.2.4}Sensor3 U\_side}{13}
+\contentsline {subsubsection}{\numberline {3.2.5}Sensor:3 V\_side}{14}
+\contentsline {subsection}{\numberline {3.3}Layer5}{15}
+\contentsline {subsubsection}{\numberline {3.3.1}Sensor1 V\_side}{15}
+\contentsline {subsubsection}{\numberline {3.3.2}Sensor2 U\_side}{16}
+\contentsline {subsubsection}{\numberline {3.3.3}Sensor:2 V\_side}{17}
+\contentsline {subsubsection}{\numberline {3.3.4}Sensor3 U\_side}{18}
+\contentsline {subsubsection}{\numberline {3.3.5}Sensor:3 V\_side}{19}
+\contentsline {subsubsection}{\numberline {3.3.6}Sensor4 U\_side}{20}
+\contentsline {subsubsection}{\numberline {3.3.7}Sensor:4 V\_side}{21}
+\contentsline {subsection}{\numberline {3.4}Layer6}{22}
+\contentsline {subsubsection}{\numberline {3.4.1}Sensor1 V\_side}{22}
+\contentsline {subsubsection}{\numberline {3.4.2}Sensor2 U\_side}{23}
+\contentsline {subsubsection}{\numberline {3.4.3}Sensor:2 V\_side}{24}
+\contentsline {subsubsection}{\numberline {3.4.4}Sensor3 U\_side}{25}
+\contentsline {subsubsection}{\numberline {3.4.5}Sensor:3 V\_side}{26}
+\contentsline {subsubsection}{\numberline {3.4.6}Sensor4 U\_side}{27}
+\contentsline {subsubsection}{\numberline {3.4.7}Sensor:4 V\_side}{28}
+\contentsline {subsubsection}{\numberline {3.4.8}Sensor5 U\_side}{29}
+\contentsline {subsubsection}{\numberline {3.4.9}Sensor:5 V\_side}{30}
+\contentsline {section}{\numberline {4}Conclusion}{31}
+\contentsline {section}{\numberline {5}Future prospects}{31}

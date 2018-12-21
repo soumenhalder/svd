@@ -1,0 +1,4 @@
+1)Did you check the 0.05 cm signal window is optimal or not. Does the ans change if you change this width of window?
+2)Estimate systametics associated to this cut, i.e the way of estimating efficiwncy is somewhat overcalculation because of background cluster.
+3)Is the Residual plot associated to 513V(low efficiency) sensor is OK?
+

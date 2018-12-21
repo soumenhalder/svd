@@ -1,0 +1,29 @@
+\usecolortheme[named=Cyan]{structure}
+%\usecolortheme{beaver}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{flexisym}
+\begin{document}
+		\title{Spatial resolution of Belle II Silicon Vertex Detector}   
+		\author{Soumen Halder} 
+		\date{\today} 
+		\frame{\titlepage}
+		
+\begin{frame}{Software}
+	\begin{itemize}
+		\item \textbf{hlt\_mumu\_2trk} skim raw data used from KEKCC(/ghi/fs01/belle2/bdata/Data/release-02-00-01/DB00000425/prod00000005/e0003/4S/r*/all/raw/sub00/\\raw.physics.hlt\_mumu\_2trk*) 
+		\item The runs without SVD were excluded from analysis
+		\item Details of skim discussed here \\ \url{https://confluence.desy.de/display/BI/Experiment+3+skims}
+		\item Release used to analysis is \textbf{/cvmfs/belle.cern.ch/sl6/releases/releases-02-00-01}
+	\end{itemize}
+\end{frame}
+\end{document}

@@ -1,0 +1,25 @@
+
+
+After getting output from module again run in kekcc with several cuts and taking one cluster per intercept 
+Try to use any git to save the record for this status
+
+dimuon cut(data and mc)
+10 strips from end are excluded both intercepts ntuple and cluster ntuple
+number of track=2
+accolinearity <10 deg
+dr<2 dz<4
+35<theta<125
+0<ecl<0.7GeV for each track
+
+
+bhabha cut
+10 strips from end are excluded both intercepts ntuple and cluster ntuple
+number of track=2
+momentum of each track > 3 GeV
+accolinearity <10 deg
+dr<2 dz<4
+
+
+
+Efficiency are noted down inside the ods file for cuts #of svd>0 &&  # of pxd>0 using efficiency_calculation_3.C and all
+for 412U, 512U,612U, 613U efficiencies are recalculated by applying cuts that intercepts are excluded in the region 108-276 U_stripID

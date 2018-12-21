@@ -1,0 +1,8 @@
+tadeas
+If you are worried about the strange features in cluster position vs. residual, these are sensor deformations (mostly, projected to one coordinate). We, in the alignment group, already exercised with identifying and partially also alignment of those, but there is so far not implementation in the tracking software which could correct for this effect.
+
+peter
+Planar deformations are a likely candidate, but perhaps the strange 
+features may also arise from the constraints applied in track selection.
+Nice piece of work from Soumen, anyway.
+

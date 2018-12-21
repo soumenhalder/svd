@@ -1,0 +1,5 @@
+ 
+
+
+sensors mu1 mu2 sigma1 sigma2 range fitrange bins
+
